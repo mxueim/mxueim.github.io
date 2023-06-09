@@ -17,42 +17,76 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I received my Ph.D degree in Control Science and Engineering from [Hunan University](http://www-en.hnu.edu.cn/), China, in 2021, under the supervision of Prof. [Wei Sun](http://eeit.hnu.edu.cn/info/1281/4511.htm). During my Ph.D, I was also with the [National Engineering Laboratory for Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/), Hunan University. From 2019 to 2021, I studied in the School of Computing at the National University of Singapore as a visiting scholar, under the supervision of Prof. [Roger Zimmermann](https://scholar.google.com/citations?user=IDREwXEAAAAJ&hl=en).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<!-- Prior to Ph.D program, I received my B.S. degree from Hunan University of Technology, M.S. degree from Hunan University, in 2014 and 2017. -->
+
+
+
+My research interests include:
+-  Indoor Localization with Wireless Sensing and Analytics
+-  Multi-robot Multi-task allocation in unknown environment
+-  Simultaneous Localization And Mapping (SLAM)
+-  3D Sensor and Time of Flight (ToF)
+-  Unmanned aerial Vehicle (UAV) optimization
+
+Please check [Google Scholar](https://scholar.google.com/citations?user=KXlxjDwAAAAJ&hl=en) for my full publications.
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.11*: &nbsp; I join [Huawei Technologies Co., Ltd](https://www.huawei.com/en/corporate-information) as an algorithm engineer in Shenzhen, China. 
+- *2021.10*: &nbsp;🎉 I have completed my degree!
 
-# 📝 Publications 
+# 👩‍💻 Work Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+- 2021.11 - Present: &nbsp; Huawei Technologies Co., Ltd, algorithm engineer
+
+# 📝 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IOTJ</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Locate the mobile device by enhancing the WiFi-based indoor localization model](https://ieeexplore.ieee.org/abstract/document/8738808)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**M Xue**, W Sun, H Yu, H Tang, A Lin, X Zhang, R Zimmermann
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- The Access Point(AP) discrimination criterion (APDC) is introduced to quantify the discernibility of the APs detected in the workspace
+- Localization residual is fed and learnt by the model, and large localization errors are mitigated by the location modification method 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Augmentation of Fingerprints for Indoor WiFi Localization Based on Gaussian Process Regression](https://ieeexplore.ieee.org/document/8464281)
+
+W Sun, **M Xue***, H Yu, H Tang, A Lin
+
+
+- Gaussian process regression models predict the spatial distribution of signal strength in the uncalibrated domain
+- the compound kernels for received signal strength (RSS) prediction models are presented
+</div>
+</div>
+
+- [Towards Floor Identification and Pinpointing Position: A Multistory Localization Model with WiFi Fingerprint](https://link.springer.com/article/10.1007/s12555-020-0978-4), X Zhang, W Sun, J Zheng, **M Xue***, C Tang, R Zimmermann.Int. J. Control Autom. Syst.
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019* Excellent Doctoral School Scholarship
+- *2019* Scholarship for Postgraduate Program Sponsored by China Scholarship Council
+- *2018* First-Class Prize of China Industry-University Cooperation Innovation Program
+- *2014 / 2016* First-Class Scholarship of Hunan University
+- *2013* Second-Class Prize in the Mathematics Competition for College Students in Hunan Province
 
-# 📖 Educations
+<!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
