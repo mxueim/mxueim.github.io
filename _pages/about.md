@@ -19,16 +19,12 @@ redirect_from:
 
 I received my Ph.D degree in Control Science and Engineering from [Hunan University](http://www-en.hnu.edu.cn/), China, in 2021, under the supervision of Prof. [Wei Sun](http://eeit.hnu.edu.cn/info/1281/4511.htm). During my Ph.D, I was also with the [National Engineering Laboratory for Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/), Hunan University. From 2019 to 2021, I studied in the School of Computing at the National University of Singapore as a visiting scholar, under the supervision of Prof. [Roger Zimmermann](https://scholar.google.com/citations?user=IDREwXEAAAAJ&hl=en).
 
-<!-- Prior to Ph.D program, I received my B.S. degree from Hunan University of Technology, M.S. degree from Hunan University, in 2014 and 2017. -->
-
-
-
 My research interests include:
 -  Indoor Localization with Wireless Sensing and Analytics
--  Multi-robot Multi-task allocation in unknown environment
--  Simultaneous Localization And Mapping (SLAM)
+-  Multi-robot Multi-task Allocation in Unknown Environment
+-  Simultaneous Localization and Mapping (SLAM)
 -  3D Sensor and Time of Flight (ToF)
--  Unmanned aerial Vehicle (UAV) optimization
+-  Unmanned Aerial Vehicle (UAV) Optimization
 
 Please check [Google Scholar](https://scholar.google.com/citations?user=KXlxjDwAAAAJ&hl=en) for my full publications.
 
@@ -74,11 +70,11 @@ W Sun, **M Xue***, H Yu, H Tang, A Lin
 
 
 # 🎖 Honors and Awards
-- *2019* Excellent Doctoral School Scholarship
-- *2019* Scholarship for Postgraduate Program Sponsored by China Scholarship Council
-- *2018* First-Class Prize of China Industry-University Cooperation Innovation Program
-- *2014 / 2016* First-Class Scholarship of Hunan University
-- *2013* Second-Class Prize in the Mathematics Competition for College Students in Hunan Province
+- [*2019*]&nbsp; Excellent Doctoral School Scholarship
+- [*2019*]&nbsp; Scholarship for Postgraduate Program Sponsored by China Scholarship Council
+- [*2018*]&nbsp; First-Class Prize of China Industry-University Cooperation Innovation Program
+- [*2014 / 2016*]&nbsp; First-Class Scholarship of Hunan University
+- [*2013*]&nbsp; Second-Class Prize in the Mathematics Competition for College Students in Hunan Province
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -90,3 +86,4 @@ W Sun, **M Xue***, H Yu, H Tang, A Lin
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
