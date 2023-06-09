@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Min Xue's Homepage
+[Min Xue's Homepage](https://mxueim.github.io/)
 </h1>
 
-[Min Xue](https://mxueim.github.io/)
+
