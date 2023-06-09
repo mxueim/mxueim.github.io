@@ -31,12 +31,12 @@ Please check [Google Scholar](https://scholar.google.com/citations?user=KXlxjDwA
 
 
 # 🔥 News
-- *2021.11*: &nbsp; I join [Huawei Technologies Co., Ltd](https://www.huawei.com/en/corporate-information) as an algorithm engineer in Shenzhen, China. 
+- *2021.11*: &nbsp; I join Huawei Technologies Co., Ltd, as an algorithm engineer in Shenzhen, China. 
 - *2021.10*: &nbsp;🎉 I have completed my degree!
 
 # 👩‍💻 Work Experience
 
-- 2021.11 - Present: &nbsp; Huawei Technologies Co., Ltd, algorithm engineer
+- 2021.11 - Present: &nbsp; [Huawei Technologies Co., Ltd](https://www.huawei.com/en/corporate-information), Algorithm engineer
 
 # 📝 Selected Publications 
 
