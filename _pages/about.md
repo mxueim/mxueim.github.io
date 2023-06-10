@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D degree in Control Science and Engineering from [Hunan University](http://www-en.hnu.edu.cn/), China, in 2021, under the supervision of Prof. [Wei Sun](http://eeit.hnu.edu.cn/info/1281/4511.htm). During my Ph.D, I was also with the [National Engineering Laboratory for Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/). From 2019 to 2021, I studied in the School of Computing at the National University of Singapore as a visiting scholar, under the supervision of Prof. [Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/).
+I received my Ph.D degree in Control Science and Engineering from [Hunan University](http://www-en.hnu.edu.cn/), China, in 2021, under the supervision of Prof. [Wei Sun](http://eeit.hnu.edu.cn/info/1281/4511.htm). During my Ph.D, I was also affiliated with the [National Engineering Laboratory for Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/). From 2019 to 2021, I studied in the School of Computing at the National University of Singapore as a visiting scholar, under the supervision of Prof. [Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/).
 
 My research interests include:
 -  Indoor Localization with Wireless Sensing and Analytics
