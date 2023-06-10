@@ -70,7 +70,7 @@ W Sun, **M Xue***, H Yu, H Tang, A Lin
 </div>
 </div>
 
-- <div class='paper-box'><div><div class="badge">Int. J. Control Autom. Syst</div>[Towards Floor Identification and Pinpointing Position: A Multistory Localization Model with WiFi Fingerprint](https://link.springer.com/article/10.1007/s12555-020-0978-4),X Zhang, W Sun, J Zheng, **M Xue***, C Tang, R Zimmermann
+<div class='paper-box'><div><div class="badge">Int. J. Control Autom. Syst</div></div>[Towards Floor Identification and Pinpointing Position: A Multistory Localization Model with WiFi Fingerprint](https://link.springer.com/article/10.1007/s12555-020-0978-4),X Zhang, W Sun, J Zheng, **M Xue***, C Tang, R Zimmermann
 </div>
 </div>
 
