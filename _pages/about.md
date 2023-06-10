@@ -79,7 +79,7 @@ W Sun, **M Xue***, H Yu, H Tang, A Lin
 - <div class='paper-box'><div><div class="badge">IEEE TVT</div>
 <div class='paper-box-text' markdown="1">[Towards Floor Identification and Pinpointing Position: A Multistory Localization Model with WiFi Fingerprint](https://link.springer.com/article/10.1007/s12555-020-0978-4), X Zhang, W Sun, J Zheng, **M Xue***, C Tang, R Zimmermann
 - <div class='paper-box'><div><div class="badge">IEEE TVT</div></div>
-<div class='paper-box-text' markdown="1">[Towards Floor Identification and Pinpointing Position: A Multistory Localization Model with WiFi Fingerprint](https://link.springer.com/article/10.1007/s12555-020-0978-4), X Zhang, W Sun, J Zheng, **M Xue***, C Tang, R Zimmermann
+[Towards Floor Identification and Pinpointing Position: A Multistory Localization Model with WiFi Fingerprint](https://link.springer.com/article/10.1007/s12555-020-0978-4), X Zhang, W Sun, J Zheng, **M Xue***, C Tang, R Zimmermann
 
 
 
