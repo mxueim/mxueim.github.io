@@ -40,7 +40,7 @@ Please check [Google Scholar](https://scholar.google.com/citations?user=KXlxjDwA
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IOTJ</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IOTJ</div><img src='images/IOTJ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Locate the mobile device by enhancing the WiFi-based indoor localization model](https://ieeexplore.ieee.org/abstract/document/8738808)
@@ -53,7 +53,7 @@ Please check [Google Scholar](https://scholar.google.com/citations?user=KXlxjDwA
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT</div><img src='images/TVT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Augmentation of Fingerprints for Indoor WiFi Localization Based on Gaussian Process Regression](https://ieeexplore.ieee.org/document/8464281)
@@ -66,7 +66,7 @@ W Sun, **M Xue***, H Yu, H Tang, A Lin
 </div>
 </div>
 
-- [Towards Floor Identification and Pinpointing Position: A Multistory Localization Model with WiFi Fingerprint](https://link.springer.com/article/10.1007/s12555-020-0978-4), X Zhang, W Sun, J Zheng, **M Xue***, C Tang, R Zimmermann.Int. J. Control Autom. Syst.
+- <div class="badge">Int. J. Control Autom. Syst</div>[Towards Floor Identification and Pinpointing Position: A Multistory Localization Model with WiFi Fingerprint](https://link.springer.com/article/10.1007/s12555-020-0978-4), X Zhang, W Sun, J Zheng, **M Xue***, C Tang, R Zimmermann.Int. J. Control Autom. Syst.
 
 
 # 🎖 Honors and Awards
