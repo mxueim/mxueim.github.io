@@ -26,7 +26,7 @@ My research interests include:
 -  3D Sensor and Time of Flight (ToF)
 -  Unmanned Aerial Vehicle (UAV) Optimization
 
-Please check [Google Scholar](https://scholar.google.com/citations?user=KXlxjDwAAAAJ&hl=en) for my full publications.
+Please refer to [Google Scholar](https://scholar.google.com/citations?user=KXlxjDwAAAAJ&hl=en) for my full publications.
 
 
 
