@@ -24,19 +24,18 @@ My research interests include:
 -  Multi-robot Multi-task Allocation in Unknown Environment
 -  Simultaneous Localization and Mapping (SLAM)
 -  3D Sensor and Time of Flight (ToF)
--  Unmanned Aerial Vehicle (UAV) Optimization
 
 Please refer to [Google Scholar](https://scholar.google.com/citations?user=KXlxjDwAAAAJ&hl=en) for my full publications.
 
 
 
 # 🔥 News
-- *2021.11*: &nbsp; I join Huawei Technologies Co., Ltd, as an algorithm engineer in Shenzhen, China. 
+<!-- - *2021.11*: &nbsp; I join Huawei Technologies Co., Ltd, as an algorithm engineer in Shenzhen, China. -->
 - *2021.10*: &nbsp;🎉 I have completed my degree!
 
 # 👩‍💻 Work Experience
 
-- 2021.11 - Present: &nbsp; [Huawei Technologies Co., Ltd](https://www.huawei.com/en/corporate-information), Algorithm engineer
+- 2021.11 - 2023.06: &nbsp; [Huawei Technologies Co., Ltd](https://www.huawei.com/en/corporate-information), Algorithm engineer
 
 # 📝 Selected Publications 
 
@@ -91,4 +90,4 @@ W Sun, **M Xue***, H Yu, H Tang, A Lin
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-(Last updated in 06/2023)
+<!-- (Last updated in 06/2023) -->
