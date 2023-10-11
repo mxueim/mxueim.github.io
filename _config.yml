@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Min Xue"
-description              : "Research in indoor localization, SLAM, ToF, UAV. "
+description              : "Research in indoor localization, SLAM, ToF. "
 repository               : "mxueim/mxueim.github.io/"
 google_scholar_stats_use_cdn : true
 
