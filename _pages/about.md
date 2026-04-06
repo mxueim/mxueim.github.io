@@ -28,7 +28,7 @@ My research interests include:
 
 
 
-You can reach me at [mxueim@gmail.com](mxueim@gmail.com)
+You can reach me at: mxueim@gmail.com
 
 # 🔥 News
 <!-- - *2021.11*: &nbsp; I join Huawei Technologies Co., Ltd, as an algorithm engineer in Shenzhen, China. -->
@@ -36,38 +36,13 @@ You can reach me at [mxueim@gmail.com](mxueim@gmail.com)
 
 # 👩‍💻 Work Experience
 
-- 2026 - Now: &nbsp; [Taiyuan University of Technology](https://www.tyut.edu.cn/), Assistant Professor
+- 2026 - Now: &nbsp; [Taiyuan University of Technology](https://english.tyut.edu.cn/), Assistant Professor
 - 2023 - 2026: &nbsp; [Department of Electronic Engineering at Tsinghua University](https://www.ee.tsinghua.edu.cn/en/), Postdoctoral researcher
 - 2021 - 2023: &nbsp; [Huawei Technologies Co., Ltd](https://www.huawei.com/en/corporate-information), Algorithm engineer
 
 
 
-# 📝 Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IOTJ</div><img src='images/3ds.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[3DS-Plan: A Perception-Planning-Co-Design Framework to Facilitate Robot Task Planning with Open-Vocabulary 3D Scene](https://techpage.github.io/open3dsp/)
-
-**M Xue**, J Yu, L Xiu, J Tang, X Cai, Y Zhao, S Liang, Y Wang
-
-- To plan and execute robotics tasks, 3D scene perception and understanding are critical for robots to effectively interact with complex environments. We propose 3DS-Plan, an open-vocabulary 3D scene perception and generation model designed to facilitate long-horizon task planning. 
-- It leverages the pre-trained foundation models to support robotic scene understanding, and further provides environmental details to infer actionable steps in various scenarios.  
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT</div><img src='images/robodps.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[RoboDPS: A Unified Robot Data Management Platform for Policy Learning](https://techpage.github.io/robodps/)
-
-**M Xue***, et al.
-
-
-- We propose RoboDPS, a unified robot data management platform that effectively stores, retrieves, and visualizes data while reducing adaptation costs. 
-- The platform is designed to support flexible and customizable data structures, and facilitate the extraction of task-relevant information.
-</div>
-</div>
 
 
 
@@ -106,7 +81,32 @@ W Sun, **M Xue***, H Yu, H Tang, A Lin
 
 
 
+# 📝 Projects 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Todo</div><img src='images/3ds.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[3DS-Plan: A Perception-Planning-Co-Design Framework to Facilitate Robot Task Planning with Open-Vocabulary 3D Scene](https://techpage.github.io/open3dsp/)
+
+**M Xue**, J Yu, L Xiu, J Tang, X Cai, Y Zhao, S Liang, Y Wang
+
+- To plan and execute robotics tasks, 3D scene perception and understanding are critical for robots to effectively interact with complex environments. We propose 3DS-Plan, an open-vocabulary 3D scene perception and generation model designed to facilitate long-horizon task planning. 
+- It leverages the pre-trained foundation models to support robotic scene understanding, and further provides environmental details to infer actionable steps in various scenarios.  
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Todo</div><img src='images/robodps.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RoboDPS: A Unified Robot Data Management Platform for Policy Learning](https://techpage.github.io/robodps/)
+
+**M Xue**, et al.
+
+
+- We propose RoboDPS, a unified robot data management platform that effectively stores, retrieves, and visualizes data while reducing adaptation costs. 
+- The platform is designed to support flexible and customizable data structures, and facilitate the extraction of task-relevant information.
+</div>
+</div>
 
 
 
