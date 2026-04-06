@@ -17,25 +17,59 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D degree in Control Science and Engineering from [Hunan University](http://www-en.hnu.edu.cn/), China, in 2021, under the supervision of Prof. [Wei Sun](http://eeit.hnu.edu.cn/info/1281/4511.htm). During my Ph.D, I was also affiliated with the [National Engineering Laboratory for Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/). From 2019 to 2021, I studied in the School of Computing at the National University of Singapore as a visiting scholar, under the supervision of Prof. [Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/).
+I am currently an Assistant Professor at the College of Electronic Information Engineering, Taiyuan University of Technology. Prior to that, I conducted postdoctoral research in the [Department of Electronic Engineering at Tsinghua University](https://www.ee.tsinghua.edu.cn/en/) starting in 2023. Previously, I worked at Huawei Technologies Co., Ltd. I received my Ph.D. degree in Control Science and Engineering from [Hunan University](http://www-en.hnu.edu.cn/), China, in 2021, during which I was also affiliated with the [National Engineering Laboratory for Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/). From 2019 to 2021, I studied as a visiting student at the School of Computing, National University of Singapore.
+
+
 
 My research interests include:
--  Indoor Localization with Wireless Sensing and Analytics
--  Multi-robot Multi-task Allocation in Unknown Environment
--  Simultaneous Localization and Mapping (SLAM)
--  3D Sensor and Time of Flight (ToF)
-
-Please refer to [Google Scholar](https://scholar.google.com/citations?user=KXlxjDwAAAAJ&hl=en) for my full publications.
+-  Embodied Intelligence and Multimodal Perception–Interaction: This research focuses on the coordination between perception and action in complex environments. It investigates multimodal information fusion and interaction mechanisms to enhance a system’s capability in real-world understanding, manipulation, and stable task execution.
+-  Spatial Intelligence and 3D Scene Generation: This research addresses spatial understanding and environment modeling by developing methods that integrate real-world data acquisition with generative models for 3D scene construction. It aims to build controllable spatial content generation models to support environment reconstruction and embodied intelligence training.
 
 
+
+
+You can reach me at [mxueim@gmail.com](mxueim@gmail.com)
 
 # 🔥 News
 <!-- - *2021.11*: &nbsp; I join Huawei Technologies Co., Ltd, as an algorithm engineer in Shenzhen, China. -->
-- *2021.10*: &nbsp;🎉 I have completed my degree!
+- *2026.02*: &nbsp;🎉 TBD!
 
 # 👩‍💻 Work Experience
 
-- 2021.11 - 2023.06: &nbsp; [Huawei Technologies Co., Ltd](https://www.huawei.com/en/corporate-information), Algorithm engineer
+- 2026 - Now: &nbsp; [Taiyuan University of Technology](https://www.tyut.edu.cn/), Assistant Professor
+- 2023 - 2026: &nbsp; [Department of Electronic Engineering at Tsinghua University](https://www.ee.tsinghua.edu.cn/en/), Postdoctoral researcher
+- 2021 - 2023: &nbsp; [Huawei Technologies Co., Ltd](https://www.huawei.com/en/corporate-information), Algorithm engineer
+
+
+
+# 📝 Projects 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IOTJ</div><img src='images/3ds.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[3DS-Plan: A Perception-Planning-Co-Design Framework to Facilitate Robot Task Planning with Open-Vocabulary 3D Scene](https://techpage.github.io/open3dsp/)
+
+**M Xue**, J Yu, L Xiu, J Tang, X Cai, Y Zhao, S Liang, Y Wang
+
+- To plan and execute robotics tasks, 3D scene perception and understanding are critical for robots to effectively interact with complex environments. We propose 3DS-Plan, an open-vocabulary 3D scene perception and generation model designed to facilitate long-horizon task planning. 
+- It leverages the pre-trained foundation models to support robotic scene understanding, and further provides environmental details to infer actionable steps in various scenarios.  
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT</div><img src='images/robodps.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RoboDPS: A Unified Robot Data Management Platform for Policy Learning](https://techpage.github.io/robodps/)
+
+**M Xue***, et al.
+
+
+- We propose RoboDPS, a unified robot data management platform that effectively stores, retrieves, and visualizes data while reducing adaptation costs. 
+- The platform is designed to support flexible and customizable data structures, and facilitate the extraction of task-relevant information.
+</div>
+</div>
+
+
 
 # 📝 Selected Publications 
 
@@ -69,6 +103,11 @@ W Sun, **M Xue***, H Yu, H Tang, A Lin
 <!-- - ``Int. J. Control Autom. Syst``[Towards Floor Identification and Pinpointing Position: A Multistory Localization Model with WiFi Fingerprint](https://link.springer.com/article/10.1007/s12555-020-0978-4), X Zhang, W Sun, J Zheng, **M Xue***, C Tang, R Zimmermann
 - <div class='paper-box'><div><div class="badge">IEEE TVT</div>
 <div class='paper-box-text' markdown="1">[Towards Floor Identification and Pinpointing Position: A Multistory Localization Model with WiFi Fingerprint](https://link.springer.com/article/10.1007/s12555-020-0978-4), X Zhang, W Sun, J Zheng, **M Xue***, C Tang, R Zimmermann -->
+
+
+
+
+
 
 
 
