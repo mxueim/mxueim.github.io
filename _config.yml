@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Min Xue"
-description              : "Research in indoor localization, SLAM, ToF. "
+description              : "Research in Embodied AI. "
 repository               : "mxueim/mxueim.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Min Xue"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "Hunan University"
-  location         : "Shenzhen, China"
+  bio              : "PhD at Hunan University"
+  location         : "Taiyuan, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KXlxjDwAAAAJ&hl=en"
