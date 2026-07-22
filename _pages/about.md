@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Assistant Professor at the College of Electronic Information Engineering, Taiyuan University of Technology. Prior to that, I conducted postdoctoral research in the [Department of Electronic Engineering at Tsinghua University](https://www.ee.tsinghua.edu.cn/en/) starting in 2023. Previously, I worked at Huawei Technologies Co., Ltd. I received my Ph.D. degree in Control Science and Engineering from [Hunan University](http://www-en.hnu.edu.cn/), China, in 2021, during which I was also affiliated with the [National Engineering Laboratory for Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/). From 2019 to 2021, I studied as a visiting student at the School of Computing, National University of Singapore.
+
+
+I am currently an Assistant Professor at the College of Electronic Information Engineering, Taiyuan University of Technology. Prior to that, I received my Ph.D. degree in Control Science and Engineering from [Hunan University](http://www-en.hnu.edu.cn/), China in 2021, during which I was also affiliated with the [National Engineering Laboratory for Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/). After that I worked at Huawei Technologies Co., Ltd, and then conducted postdoctoral research in the [Department of Electronic Engineering at Tsinghua University](https://www.ee.tsinghua.edu.cn/en/). From 2019 to 2021, I was a visiting Ph.D. student at the School of Computing, National University of Singapore.
 
 
 
 My research interests include:
 -  Embodied Intelligence and Multimodal Perception–Interaction: This research focuses on the coordination between perception and action in complex environments. It investigates multimodal information fusion and interaction mechanisms to enhance a system’s capability in real-world understanding, manipulation, and stable task execution.
 -  Spatial Intelligence and 3D Scene Generation: This research addresses spatial understanding and environment modeling by developing methods that integrate real-world data acquisition with generative models for 3D scene construction. It aims to build controllable spatial content generation models to support environment reconstruction and embodied intelligence training.
-
 
 
 
